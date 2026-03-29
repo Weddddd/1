@@ -1,1 +1,1 @@
-# Some material for icml2026 rebuttal
+# Material for icml2026 rebuttal
